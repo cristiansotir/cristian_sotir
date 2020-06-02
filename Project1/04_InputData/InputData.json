@@ -1,0 +1,16 @@
+[{
+	"URL":"https://angularjs.org/",
+	"URLCura":"https://katalon-demo-cura.herokuapp.com/",
+	"username":"John Doe",
+	"password":"ThisIsNotAPassword",
+	"messageafterlogin":"Make Appointment",
+	"URL_generate_CNP":"https://isj.educv.ro/cnp/",
+	"genderF":"Feminin",
+	"genderM":"Masculin",
+	"datanasteriiCNP":"22.12.1989",
+	"taraCNP":"Romania",
+	"judetCNP":"București S.3",
+	"URL20200505":"https://isj.educv.ro/cnp/",
+	"":""
+}
+]
